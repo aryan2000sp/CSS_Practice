@@ -1,0 +1,28 @@
+#Parent_Div{
+	background-color: blue;
+	border: 2px solid;
+	position: relative;
+	top: 500px;
+}
+
+#One_Div{
+	background-color: green;
+	border: 2px solid;
+	margin: 0px;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+
+}
+
+#Two_Div{
+	background-color: red;
+	border: 2px solid;
+	margin: 10px;
+}
+
+#Three_Div{
+	background-color: pink;
+	border: 2px solid;
+	margin: 10px;
+}

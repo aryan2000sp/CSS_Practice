@@ -1,0 +1,17 @@
+.div_1{
+	width: 200px;
+	height: 100px;
+	background: linear-gradient(45deg, red, blue);
+}
+
+.div_2{
+	width: 200px;
+	height: 100px;
+	background: repeating-linear-gradient(90deg, green 0px, orange 20px);
+}
+
+.div_3{
+	width: 200px;
+	height: 100px;
+	background: radial-gradient(#3ACE31, #C531CE);
+}
